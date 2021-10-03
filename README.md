@@ -24,9 +24,6 @@
 
 # Passo a passo para configurar o projeto
 
-#### Baixe o projeto no Github, de preferência na branch do Vídeo 1:
-- Branch do vídeo 1: `https://github.com/samlucax/youtube-cypress/tree/video1`
-
 #### Instale e suba nossa *cobaia* localmente
 1.Acessar o diretório backend, instalar as dependências e iniciar a api:
   - `cd backend` 
