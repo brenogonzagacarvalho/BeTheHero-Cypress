@@ -1,13 +1,3 @@
-<h1 align="center">Cypress: do zero ao reporte </h1>
-<p align="center">Um projeto para aprender sobre o Cypress no Youtube</p>
-
-------------
-
-[![HitCount](http://hits.dwyl.com/samlucax/youtube-cypress.svg)](http://hits.dwyl.com/samlucax/youtube-cypress)
-
-<p align="center"><img src="youtube-cypress.png" width="100%"/></p>
-
-
 ## Resumo dos conteúdos abordados:
 
 - como criar um projeto node
